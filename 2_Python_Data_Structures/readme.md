@@ -15,7 +15,7 @@
 
 ## Cheatsheet
 
-| Class or Method | Description | Description |
+| Class or Method | Description | Example     |
 | --------------- | ----------- | ----------- |
 | ```<varname>[-<index>]``` | A negative index counts from the last value in a list or a tuple. | myList=[‘a’,‘b’,‘c’,‘d’,‘e’,‘f’] </br></br> #myValue is assigned ‘e’ </br></br> myValue=myList[-2] |
 | ```<varname>[<index1>:<index2>]``` | Slice a list or a tuple. | myList=[‘a’,‘b’,‘c’,‘d’,‘e’,‘f’] </br></br> # myValues=[‘c’,‘d’,‘e’] </br></br> myValues=myList[2:5]

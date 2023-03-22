@@ -1,4 +1,4 @@
-# Python Basics for Data Science
+# Python Basics
 
 ## Glossary
 
